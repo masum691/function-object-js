@@ -1,0 +1,17 @@
+
+
+function j kono jaiga theke akadik bar call kora jai 
+
+---------------------------------------------------------------------
+// parametar (parametar k argument o bola hoy)
+
+function bringSingara(taka){ 
+    console.log(taka);
+}
+bringSingara(100);
+
+* akhane (taka) holo parametar
+----------------------------------------------------------------
+
+// Object
+* object { } second bracket diye likhte hoy.
