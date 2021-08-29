@@ -55,32 +55,3 @@ var total = vagKorbo(number1, number2);
 console.log('total holo', total);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
